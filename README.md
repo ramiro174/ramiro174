@@ -14,13 +14,13 @@
 
 ### 📊 GitHub Stats:
 
-![](https://github-readme-stats.vercel.app/api?username=mostafizurhimself&theme=default&hide_border=false&include_all_commits=true&count_private=true)<br/>
-![](https://github-readme-streak-stats.herokuapp.com/?user=mostafizurhimself&theme=default&hide_border=false)<br/>
+![](https://github-readme-stats.vercel.app/api?username=ramiro174&theme=default&hide_border=false&include_all_commits=true&count_private=true)<br/>
+![](https://github-readme-streak-stats.herokuapp.com/?user=ramiro174&theme=default&hide_border=false)<br/>
 
 <!-- ![](https://github-readme-stats.vercel.app/api/top-langs/?username=mostafizurhimself&theme=default&hide_border=false&include_all_commits=true&count_private=true&layout=compact) -->
 
 ### 🏆 GitHub Trophies
 
-![](https://github-profile-trophy.vercel.app/?username=mostafizurhimself&theme=radical&no-frame=false&no-bg=true&margin-w=4)
+![](https://github-profile-trophy.vercel.app/?username=ramiro174&theme=radical&no-frame=false&no-bg=true&margin-w=4)
 
 
