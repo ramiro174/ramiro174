@@ -23,12 +23,4 @@
 
 ![](https://github-profile-trophy.vercel.app/?username=mostafizurhimself&theme=radical&no-frame=false&no-bg=true&margin-w=4)
 
-### :handshake: Connect with Me
 
-<p align="left">
-<a href="https://twitter.com/mostafizhimself" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="mostafizhimself" height="30" width="40" /></a>
-<a href="https://www.linkedin.com/in/mostafizurhimself" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="mostafizur-himself" height="30" width="40" /></a>
-<a href="https://fb.com/ahmed.shakil.75839" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="ahmed.shakil.75839" height="30" width="40" /></a>
-<a href="https://medium.com/@mostafizurhimself" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/medium.svg" alt="@mostafizurhimself" height="30" width="40" /></a>
-<a href="https://dev.to/mdmostafizurrahaman" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/devto.svg" alt="mdmostafizurrahaman" height="30" width="40" /></a>
-</p>
