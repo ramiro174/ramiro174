@@ -6,7 +6,7 @@
 
 👯 I’m looking to collaborate on tech articles and learning resources
 
-⚡ Fun fact: I use double quotes over single quotes
+
 
 ### :computer: Languages, Frameworks & Tools
 
