@@ -18,6 +18,10 @@
 ![](https://github-readme-streak-stats.herokuapp.com/?user=ramiro174&theme=default&hide_border=false)<br/>
 
 <!-- ![](https://github-readme-stats.vercel.app/api/top-langs/?username=mostafizurhimself&theme=default&hide_border=false&include_all_commits=true&count_private=true&layout=compact) -->
+# 📊 GitHub Stats:
+![Github Stats](https://github-readme-stats.vercel.app/api?username=ramiro174&bg_color=30,e96443,904e95&title_color=fff&text_color=fff)<br/>
+![](https://github-readme-streak-stats.herokuapp.com/?user=ramiro174&theme=light&hide_border=false)<br/>
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=ramiro174&theme=light&hide_border=false&include_all_commits=false&count_private=true&layout=compact)
 
 ### 🏆 GitHub Trophies
 
